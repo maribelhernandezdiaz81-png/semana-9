@@ -1,0 +1,7 @@
+Explica brevemente qué función cumple cada uno. Cada explicación debe tener 2 o 3 líneas:
+
+Sistema operativo: como funciona el entorno y las aplicaciones indicando que se trata de un servidor web desarrollador con node.js que se ejecuta sobre un sistema operativo y se comunica a traves de un puerto especifico
+Node. js: es un entorno que permite correr codigosjavascrip donde difinimos las rutas ,el comportamiento del servidor y com esponde a las peticiones de los usuarios
+Aplicación server.js :servidor que sirve para rutas , herramientas que interpretan y ejecuta el archivo server .js
+Puerto :es un canal de comunicacion logico que permite identificar que aplicaciones  especificas esta recibiendo y enviendo datos .en tu caso usas el puerto 3000
+Logs :son los registros o mensajes que aparcen en la terminal mientras el servidor esta corriendo .sirve para saber que sta pasando v3r si hay errores ,confirman que se recibieron peticiones o depurar problemas
